@@ -7,4 +7,4 @@
 A simple xkcd password generator, where the user determines the number of words he wants and set options like adding a number and/or a symbol.
 
 ## Demo
-<no demo yet>
+no demo yet
